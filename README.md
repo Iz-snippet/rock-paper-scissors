@@ -27,6 +27,8 @@ Play against the computer and test your luck and logic!
 
 Only Python is needed. No external libraries required.
 python --version
+
+
 ![Screenshot 2025-07-02 112908](https://github.com/user-![Screenshot 2025-07-02 112932](https://github.com/user-attachments/assets/ad239bbc-e455-4b46-9d50-5ec811361aa1)
 attachments/assets/ad5c4c33-6c1e-4940-9013-fecbe7c24370)
 ![Screenshot 2025-07-02 112932](https://github.com/user-attachments/assets/335baabd-02f0-4a54-b72a-b40b2b452e0a)
